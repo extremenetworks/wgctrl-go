@@ -1,5 +1,5 @@
-github.com/extremenetworks/wireguard-go v0.0.0-20241217111053-c753311c0a92 h1:Pof3papBnn1WoZ6HA21rbWiaGViNRLfLE4FqYO7NLXM=
-github.com/extremenetworks/wireguard-go v0.0.0-20241217111053-c753311c0a92/go.mod h1:tkCQ4FQXmpAgYVh++1cq16/dH4QJtmvpRv19DWGAHSA=
+github.com/extremenetworks/wireguard-go v0.0.0-20250116093431-4640bd25f33c h1:9Iqcetv6hDwoGLDuW/oxsxvA93HJvMV9Iz7VyIZ0iTc=
+github.com/extremenetworks/wireguard-go v0.0.0-20250116093431-4640bd25f33c/go.mod h1:tkCQ4FQXmpAgYVh++1cq16/dH4QJtmvpRv19DWGAHSA=
 github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
 github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
 github.com/josharian/native v1.1.0 h1:uuaP0hAbW7Y4l0ZRQ6C9zfb7Mg1mbFKry/xzDAfmtLA=
