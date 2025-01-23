@@ -19,4 +19,4 @@ require (
 	golang.org/x/sync v0.10.0 // indirect
 )
 
-replace golang.zx2c4.com/wireguard => github.com/extremenetworks/wireguard-go v0.0.0-20250116093431-4640bd25f33c
+replace golang.zx2c4.com/wireguard => github.com/extremenetworks/wireguard-go v0.0.0-20250123064421-769c9f06c267
